@@ -1,6 +1,8 @@
 # Olá! Meu nome é Pedro 👋😊
 
-Sou formado técnico em Mecatrônica pelo Cefet-MG e estudante de Sistemas de Informação pela UFMG! Faço estágio em uma start-up de Belo Horizonte chamada Digital Circle, onde desenvolvo softwares RPA. Também participo da iJunior, a empresa júnior de informática da UFMG, onde treino o desenvolvimento do backend de sites e participo de cursos e treinamentos de liderança.
+Sou formado técnico em Mecatrônica pelo Cefet-MG e estudante de Sistemas de Informação pela UFMG! Atualmente estou fazendo estágio na empresa OLX Brasil, onde sou Analista de Dados.
+
+Adoro falar sobre séries, filmes e tecnologia no geral! 🎥:robot:😍
 
 <div align="center">
   <a href="https://github.com/Pe-Guedss">
