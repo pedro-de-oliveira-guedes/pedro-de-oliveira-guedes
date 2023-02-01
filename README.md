@@ -5,14 +5,14 @@ Sou formado técnico em Mecatrônica pelo Cefet-MG e estudante de Sistemas de In
 Adoro falar sobre séries, filmes e tecnologia no geral! 🎥:robot:😍
 
 <div align="center">
-  <a href="https://github.com/Pe-Guedss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pe-Guedss&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pe-Guedss&theme=dracula&layout=compact&langs_count=8"/>
+  <a href="https://github.com/pedro-de-oliveira-guedes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-de-oliveira-guedes&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-de-oliveira-guedes&theme=dracula&layout=compact&langs_count=8"/>
 </div>
 
 ## Tecnologias
 <div style="display: inline_block"><br>
-  <a href="https://github.com/Pe-Guedss">
+  <a href="https://github.com/pedro-de-oliveira-guedes">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Go Lang" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
