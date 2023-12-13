@@ -2,7 +2,7 @@
 
 Sou formado técnico em Mecatrônica pelo Cefet-MG e estudante de Sistemas de Informação pela UFMG! Atualmente estou fazendo estágio na empresa OLX Brasil, onde sou Engenheiro de Software.
 
-Adoro falar sobre séries, filmes e tecnologia no geral! 🎥:robot:😍
+Adoro falar sobre séries, filmes e tecnologia no geral! 🎥🤖😍
 
 <div align="center">
   <a href="https://github.com/pedro-de-oliveira-guedes">
