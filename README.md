@@ -1,6 +1,6 @@
 # Olá! Meu nome é Pedro 👋😊
 
-Sou estudante do 7º Período de Sistemas de Informação na UFMG e formado como técnico em Mecatrônica pelo Cefet-MG! Atualmente estou atuando como Engenheiro de Software I na empresa Grupo OLX, onde atuo com a gestão do catálogo e árvore de categorias da plataforma, desenvolvendo soluções para o backend.
+Sou estudante do 8º Período de Sistemas de Informação na UFMG e formado como técnico em Mecatrônica pelo Cefet-MG! Atualmente estou atuando como Engenheiro de Software I na empresa Grupo OLX, onde atuo com a moderação de conteúdo e desenvolvimento de confiança na plataforma. Para isso eu desenvolvo soluções backend que integram modelos de *Machine Learning*, módulos decisores, APIs externas e internas para garantir um fluxo completo e íntegro.
 
 Adoro falar sobre séries, filmes e tecnologia no geral! 🎥🤖😍
 
